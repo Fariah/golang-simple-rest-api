@@ -1,1 +1,3 @@
-# golang-simple-rest-api
+# RESTful API with Docker, PostgreSQL, and go-chi
+
+- sceleton
