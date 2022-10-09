@@ -1,1 +1,0 @@
-package golang_simple_rest_api
